@@ -1,5 +1,6 @@
 # Inventory Management - Enterprise DNA
 
+## 📌 About this Dashboard
 This Inventory Management dashboard provides a holistic view of stock levels, restocking costs, vendor performance, and product distribution to help optimize inventory operations.
 
 ## Key Insights:
