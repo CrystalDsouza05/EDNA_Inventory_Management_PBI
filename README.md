@@ -53,3 +53,8 @@ It provides critical insights into stock levels, vendor contributions, and inven
 
 **Snap of Dashboard Page**
 ![image](https://github.com/user-attachments/assets/5786e774-53c6-454b-b9de-d07285ee4b22)
+
+**Image of Data Model**
+![image](https://github.com/user-attachments/assets/2b8bcb03-94cc-43d3-95ae-c72a495c6f2a)
+
+
